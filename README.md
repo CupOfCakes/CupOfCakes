@@ -1,16 +1,15 @@
-## Hi there 👋
+## 👋 Olá
 
-<!--
-**CupOfCakes/CupOfCakes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de **Engenharia da Computação (UNIUBE)** com foco em **desenvolvimento de software**.  
+Trabalho principalmente com **Python** e **C#**, aplicando esses conhecimentos em projetos pessoais e estudos contínuos.
 
-Here are some ideas to get you started:
+### 🛠️ Tecnologias
+- Python
+- C#(.NET, ASP.NET)
+- Git / GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Atualmente
+- Desenvolvendo projetos pessoais para aprimorar lógica, organização de código e boas práticas.
+
+### 🔗 Contato
+- [LinkedIn](www.linkedin.com/in/heitor--carvalho)
